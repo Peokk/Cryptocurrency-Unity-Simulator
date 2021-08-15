@@ -17,3 +17,7 @@ Ilość wydobywanych walut zależy od poziomu ulepszenia koparki.
 Klikając ikonę w lewym górnym rogu możesz wejść w sekcję gdzie za pomocą rysujących się wykresów sprawdzić możesz jaki był najwyższy kurs 2 godziny temu, 1 godzine temu oraz jaki jest obecny.
 
 W rozwijanym menu możmy ulepszyć koparkę, sprzedać walutę, zakupić walutę oraz dowiedzieć się ile wynosi wartość twojego portfela.
+
+![Alt text](https://github.com/Peokk/Cryptocurrency-Unity-Simulator/blob/main/1.png)
+
+![Alt text](https://github.com/Peokk/Cryptocurrency-Unity-Simulator/blob/main/2.png)
